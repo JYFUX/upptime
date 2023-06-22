@@ -1,7 +1,7 @@
 url: $HF
-status: up
-code: 200
-responseTime: 119
-lastUpdated: 2023-06-21T23:21:29.295Z
+status: down
+code: 500
+responseTime: 40
+lastUpdated: 2023-06-22T08:49:39.068Z
 startTime: Mon Jun 19 2023 00:51:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
