@@ -4,17 +4,17 @@
     "url": "$GLITCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "glitch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
     "uptimeDay": "89.11%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
-    "time": 2681,
-    "timeDay": 7907,
-    "timeWeek": 4674,
-    "timeMonth": 2681,
-    "timeYear": 2681,
+    "time": 2611,
+    "timeDay": 7265,
+    "timeWeek": 4451,
+    "timeMonth": 2611,
+    "timeYear": 2611,
     "dailyMinutesDown": {
       "2023-07-06": 157
     }
