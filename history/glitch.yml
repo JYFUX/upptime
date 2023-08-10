@@ -1,7 +1,7 @@
 url: $GLITCH
-status: up
-code: 200
-responseTime: 14088
-lastUpdated: 2023-08-10T12:36:14.410Z
+status: down
+code: 503
+responseTime: 23340
+lastUpdated: 2023-08-10T13:27:44.569Z
 startTime: Sun Jun 18 2023 07:23:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
