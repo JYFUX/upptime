@@ -4,12 +4,12 @@
     "url": "$GLITCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "glitch",
-    "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "36.52%",
-    "uptimeWeek": "47.56%",
-    "uptimeMonth": "87.93%",
-    "uptimeYear": "97.78%",
+    "status": "down",
+    "uptime": "97.80%",
+    "uptimeDay": "37.67%",
+    "uptimeWeek": "47.92%",
+    "uptimeMonth": "88.02%",
+    "uptimeYear": "97.80%",
     "time": 7832,
     "timeDay": 9744,
     "timeWeek": 8294,
@@ -21,7 +21,7 @@
       "2023-11-28": 981,
       "2023-11-27": 991,
       "2023-11-26": 980,
-      "2023-11-25": 776
+      "2023-11-25": 740
     }
   }
 ]
